@@ -1,4 +1,4 @@
-**Proyecto:** Repositorio e Infraestructura Financiera — Ollas de Barro y Canastas Tejidas  
+Infraestructura Financiera — Ollas de Barro y Canastas Tejidas  
 **Producto:** Plataforma de repositorio digital y gestión financiera para artesanías tradicionales de la Mixteca  
 **Metodología:** eduScrum  
 **Integrantes:** Edgar Axel Sandoval Hernández y Adriana Hernández Martínez  
